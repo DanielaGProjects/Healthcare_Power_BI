@@ -27,11 +27,17 @@ Using Excel, I split the data into multiple tables that were uploaded to Power B
 ### Reports generated
 
 #### Costs related to diagnosis
-This report shows some medical conditions \(Diabetes Mellitus, Osteoarthritis, etc.\) the number of times this condition was attended by hospitals, the amount of expenses these conditions cause, and the amount of money that the insurer covered. 
+This report shows some medical conditions \(Diabetes Mellitus, Osteoarthritis, etc.\), the number of times this condition required hospital care, the amount of expenses they cause, and the amount of money money covered by the insurance company.
+
 ![DiagnosisGif](https://github.com/DanielaGProjects/Healthcare_Power_BI/blob/main/Gifs/DiagnosisGif.gif)
 
 
+#### Correlation with age
+This view shows how age and diseases are correlated, graps show the highest numbers in red and the lowest numbers in blue. 
+![AgeCorrelation](https://github.com/DanielaGProjects/Healthcare_Power_BI/blob/main/Gifs/PatientsGif.gif)
 
-https://github.com/DanielaGProjects/Healthcare_Power_BI/blob/main/Gifs/HospitalsGif.gif
 
-https://github.com/DanielaGProjects/Healthcare_Power_BI/blob/main/Gifs/PatientsGif.gif
+#### Hospitals Data
+This report aims to demonstrate the number of cases received by hospitals, the amount of money they charge, and the amount that the insurance company must cover.
+![HospitalsData](https://github.com/DanielaGProjects/Healthcare_Power_BI/blob/main/Gifs/HospitalsGif.gif)
+
